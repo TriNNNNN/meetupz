@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "xxxxxx.mlab.com",
+    "port": 55352,
+    "database": "xxxxxx",
+    "name": "db",
+    "user": "xxxxxx",
+    "password": "xxxxxx",
+    "connector": "mongodb",
+    "useNewUrlParser": true
+  }
+}
+
